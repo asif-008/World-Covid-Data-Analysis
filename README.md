@@ -11,7 +11,7 @@ Original file were divided into two files for learning data exploration. Several
 
 ## Data Analysis
 
-[Tableau](https://public.tableau.com/views/CovidDataanalysis_16740119126500/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) was used to create four different visualizations and a dashboard. The following is a description of each visualization:
+Tableau was used to create four different [visualizations and a dashboard](https://public.tableau.com/views/CovidDataanalysis_16740119126500/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link). The following is a description of each visualization:
 
 1. World Covid Statistics: This chart shows total death and number of total cases over the world.
 2. Death caused by Covid per Continent: This visualization shows total death in each continent.
